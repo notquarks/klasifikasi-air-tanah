@@ -302,3 +302,206 @@
 2023-11-11 21:39:09,766 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 98, Current best: 0.9284070613747029, Global best: 0.9284070613747029, Runtime: 332.24092 seconds
 2023-11-11 21:44:59,017 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 99, Current best: 0.9284070613747029, Global best: 0.9284070613747029, Runtime: 349.24773 seconds
 2023-11-11 21:50:49,613 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 100, Current best: 0.9284070613747029, Global best: 0.9284070613747029, Runtime: 350.59454 seconds
+2023-11-13 16:42:31,687 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving 2-objective optimization problem with weights: [0.8 0.3].
+2023-11-13 17:02:27,560 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving 2-objective optimization problem with weights: [0.8 0.3].
+2023-11-13 17:13:32,838 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.9774003855358262, Global best: 0.9774003855358262, Runtime: 339.28187 seconds
+2023-11-13 17:19:36,974 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.9778621195937873, Global best: 0.9778621195937873, Runtime: 364.13324 seconds
+2023-11-13 17:26:58,659 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.9778621195937873, Global best: 0.9778621195937873, Runtime: 441.68266 seconds
+2023-11-13 17:32:49,246 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 4, Current best: 0.9778621195937873, Global best: 0.9778621195937873, Runtime: 350.58302 seconds
+2023-11-13 17:38:20,466 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 5, Current best: 0.9801382899138866, Global best: 0.9801382899138866, Runtime: 331.21771 seconds
+2023-11-13 17:44:02,044 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 6, Current best: 0.9801382899138866, Global best: 0.9801382899138866, Runtime: 341.57562 seconds
+2023-11-13 17:50:18,245 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 7, Current best: 0.9801382899138866, Global best: 0.9801382899138866, Runtime: 376.19818 seconds
+2023-11-13 17:55:18,049 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 8, Current best: 0.9803512152314342, Global best: 0.9803512152314342, Runtime: 299.80151 seconds
+2023-11-13 17:57:02,565 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving 2-objective optimization problem with weights: [0.8 0.2].
+2023-11-13 18:07:06,366 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.8846956146569925, Global best: 0.8846956146569925, Runtime: 244.10099 seconds
+2023-11-13 18:10:36,856 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.8846956146569925, Global best: 0.8846956146569925, Runtime: 210.48687 seconds
+2023-11-13 18:14:21,939 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.8846956146569925, Global best: 0.8846956146569925, Runtime: 225.07989 seconds
+2023-11-13 18:17:47,464 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 4, Current best: 0.8846956146569925, Global best: 0.8846956146569925, Runtime: 205.52304 seconds
+2023-11-13 18:21:37,645 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 5, Current best: 0.8846956146569925, Global best: 0.8846956146569925, Runtime: 230.17873 seconds
+2023-11-13 18:25:35,943 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 6, Current best: 0.8846956146569925, Global best: 0.8846956146569925, Runtime: 238.29554 seconds
+2023-11-13 18:30:08,269 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 7, Current best: 0.8846956146569925, Global best: 0.8846956146569925, Runtime: 272.27523 seconds
+2023-11-13 18:37:08,768 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 8, Current best: 0.885399047486148, Global best: 0.885399047486148, Runtime: 420.06348 seconds
+2023-11-13 18:43:44,176 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 9, Current best: 0.885399047486148, Global best: 0.885399047486148, Runtime: 395.39383 seconds
+2023-11-16 18:18:57,510 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving 2-objective optimization problem with weights: [0.8 0.2].
+2023-11-16 18:24:01,034 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.8820262516144006, Global best: 0.8820262516144006, Runtime: 126.79327 seconds
+2023-11-16 18:26:12,514 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 131.47759 seconds
+2023-11-16 18:28:16,391 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 123.87290 seconds
+2023-11-16 18:30:51,586 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 4, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 155.19237 seconds
+2023-11-16 18:33:48,483 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 5, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 176.89422 seconds
+2023-11-16 18:37:36,233 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 6, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 227.74513 seconds
+2023-11-16 18:40:33,079 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 7, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 176.84541 seconds
+2023-11-16 18:44:23,208 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 8, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 230.12666 seconds
+2023-11-16 18:46:56,258 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 9, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 153.04693 seconds
+2023-11-16 18:49:26,481 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 10, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 150.22151 seconds
+2023-11-16 18:52:22,422 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 11, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 175.93860 seconds
+2023-11-16 18:55:44,860 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 12, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 202.43560 seconds
+2023-11-16 18:59:01,472 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 13, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 196.60907 seconds
+2023-11-16 19:02:37,479 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 14, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 216.00504 seconds
+2023-11-16 19:05:48,338 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 15, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 190.85688 seconds
+2023-11-16 19:09:08,729 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 16, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 200.38755 seconds
+2023-11-16 19:12:27,600 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 17, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 198.86874 seconds
+2023-11-16 19:15:57,463 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 18, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 209.85816 seconds
+2023-11-16 19:19:34,475 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 19, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 217.00962 seconds
+2023-11-16 19:23:16,426 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 20, Current best: 0.8857117337361995, Global best: 0.8857117337361995, Runtime: 221.94756 seconds
+2023-11-16 19:44:44,694 - mealpy.swarm_based.SSA.OriginalSSA - INFO - Solving 2-objective optimization problem with weights: [0.8 0.2].
+2023-11-16 19:54:02,466 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 1, Current best: 0.8852618642985259, Global best: 0.8852618642985259, Runtime: 371.91296 seconds
+2023-11-16 19:59:49,148 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 2, Current best: 0.8852618642985259, Global best: 0.8852618642985259, Runtime: 346.67943 seconds
+2023-11-16 20:06:14,189 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 3, Current best: 0.8852618642985259, Global best: 0.8852618642985259, Runtime: 385.03786 seconds
+2023-11-16 20:13:04,736 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 4, Current best: 0.8852618642985259, Global best: 0.8852618642985259, Runtime: 410.54522 seconds
+2023-11-16 20:20:16,173 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 5, Current best: 0.8852618642985259, Global best: 0.8852618642985259, Runtime: 431.43243 seconds
+2023-11-16 20:26:28,558 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 6, Current best: 0.8852618642985259, Global best: 0.8852618642985259, Runtime: 372.38248 seconds
+2023-11-16 20:33:13,171 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 7, Current best: 0.8852618642985259, Global best: 0.8852618642985259, Runtime: 404.60949 seconds
+2023-11-16 20:39:16,168 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 8, Current best: 0.8852618642985259, Global best: 0.8852618642985259, Runtime: 362.99470 seconds
+2023-11-16 20:45:44,180 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 9, Current best: 0.8876133187372773, Global best: 0.8876133187372773, Runtime: 388.00951 seconds
+2023-11-16 20:51:52,877 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 10, Current best: 0.8876133187372773, Global best: 0.8876133187372773, Runtime: 368.69399 seconds
+2023-11-16 20:56:43,880 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 11, Current best: 0.8876133187372773, Global best: 0.8876133187372773, Runtime: 291.00097 seconds
+2023-11-16 21:02:59,328 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 12, Current best: 0.8887287135174367, Global best: 0.8887287135174367, Runtime: 375.44447 seconds
+2023-11-16 21:09:07,504 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 13, Current best: 0.8887287135174367, Global best: 0.8887287135174367, Runtime: 368.17457 seconds
+2023-11-16 21:14:28,865 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 14, Current best: 0.8891621991640499, Global best: 0.8891621991640499, Runtime: 321.35715 seconds
+2023-11-16 21:20:31,496 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 15, Current best: 0.8891621991640499, Global best: 0.8891621991640499, Runtime: 362.62674 seconds
+2023-11-16 21:25:39,976 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 16, Current best: 0.8898723355170155, Global best: 0.8898723355170155, Runtime: 308.47730 seconds
+2023-11-16 21:30:30,391 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 17, Current best: 0.8898723355170155, Global best: 0.8898723355170155, Runtime: 290.41221 seconds
+2023-11-16 21:35:17,857 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 18, Current best: 0.8898723355170155, Global best: 0.8898723355170155, Runtime: 287.46336 seconds
+2023-11-16 21:40:05,192 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 19, Current best: 0.8898723355170155, Global best: 0.8898723355170155, Runtime: 287.33214 seconds
+2023-11-16 21:45:18,412 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 20, Current best: 0.8898723355170155, Global best: 0.8898723355170155, Runtime: 313.21836 seconds
+2023-11-22 20:39:34,532 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving single objective optimization problem.
+2023-11-22 20:47:08,381 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving single objective optimization problem.
+2023-11-22 20:47:38,361 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving single objective optimization problem.
+2023-11-22 20:48:54,903 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.9503109702963729, Global best: 0.9503109702963729, Runtime: 37.65528 seconds
+2023-11-22 20:49:34,295 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.9529959004997596, Global best: 0.9529959004997596, Runtime: 39.38990 seconds
+2023-11-22 20:50:17,817 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.9529959004997596, Global best: 0.9529959004997596, Runtime: 43.52043 seconds
+2023-11-22 20:51:02,021 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 4, Current best: 0.9529959004997596, Global best: 0.9529959004997596, Runtime: 44.20141 seconds
+2023-11-22 20:51:53,923 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 5, Current best: 0.9529959004997596, Global best: 0.9529959004997596, Runtime: 51.89845 seconds
+2023-11-22 20:52:42,276 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 6, Current best: 0.9529959004997596, Global best: 0.9529959004997596, Runtime: 48.35124 seconds
+2023-11-22 20:53:32,140 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 7, Current best: 0.9535768637592995, Global best: 0.9535768637592995, Runtime: 49.86125 seconds
+2023-11-22 20:54:21,353 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 8, Current best: 0.9535768637592995, Global best: 0.9535768637592995, Runtime: 49.20943 seconds
+2023-11-22 20:55:06,420 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 9, Current best: 0.9535768637592995, Global best: 0.9535768637592995, Runtime: 45.06461 seconds
+2023-11-22 20:55:52,872 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 10, Current best: 0.9535768637592995, Global best: 0.9535768637592995, Runtime: 46.45001 seconds
+2023-11-22 20:56:36,891 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 11, Current best: 0.9535768637592995, Global best: 0.9535768637592995, Runtime: 44.01691 seconds
+2023-11-22 20:57:18,276 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 12, Current best: 0.9539987680483676, Global best: 0.9539987680483676, Runtime: 41.38248 seconds
+2023-11-22 20:58:00,316 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 13, Current best: 0.9539987680483676, Global best: 0.9539987680483676, Runtime: 42.03725 seconds
+2023-11-22 20:58:43,150 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 14, Current best: 0.9539987680483676, Global best: 0.9539987680483676, Runtime: 42.83201 seconds
+2023-11-22 20:59:26,192 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 15, Current best: 0.9542498018431608, Global best: 0.9542498018431608, Runtime: 43.03898 seconds
+2023-11-22 21:00:08,442 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 16, Current best: 0.9542498018431608, Global best: 0.9542498018431608, Runtime: 42.24869 seconds
+2023-11-22 21:00:49,879 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 17, Current best: 0.9542498018431608, Global best: 0.9542498018431608, Runtime: 41.43356 seconds
+2023-11-22 21:01:31,816 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 18, Current best: 0.9542498018431608, Global best: 0.9542498018431608, Runtime: 41.93517 seconds
+2023-11-22 21:02:12,554 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 19, Current best: 0.9542498018431608, Global best: 0.9542498018431608, Runtime: 40.73571 seconds
+2023-11-22 21:02:53,569 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 20, Current best: 0.9557133252014576, Global best: 0.9557133252014576, Runtime: 41.01270 seconds
+2023-11-22 21:28:59,159 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving single objective optimization problem.
+2023-11-22 21:29:24,684 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving single objective optimization problem.
+2023-11-22 21:30:03,519 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving single objective optimization problem.
+2023-11-22 21:31:05,480 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.9449665789591011, Global best: 0.9449665789591011, Runtime: 31.93985 seconds
+2023-11-22 21:32:44,917 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving single objective optimization problem.
+2023-11-22 21:33:11,597 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving single objective optimization problem.
+2023-11-22 21:40:12,967 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.9299051116359808, Global best: 0.9299051116359808, Runtime: 222.04107 seconds
+2023-11-22 21:44:35,981 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.9310620286376309, Global best: 0.9310620286376309, Runtime: 263.01093 seconds
+2023-11-22 21:48:55,701 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.9310620286376309, Global best: 0.9310620286376309, Runtime: 259.71747 seconds
+2023-11-22 21:53:06,687 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 4, Current best: 0.9310620286376309, Global best: 0.9310620286376309, Runtime: 250.98277 seconds
+2023-11-22 21:57:23,164 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 5, Current best: 0.9310620286376309, Global best: 0.9310620286376309, Runtime: 256.47487 seconds
+2023-11-22 22:00:54,595 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 6, Current best: 0.9349792461407805, Global best: 0.9349792461407805, Runtime: 211.42809 seconds
+2023-11-22 22:04:33,275 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 7, Current best: 0.9349792461407805, Global best: 0.9349792461407805, Runtime: 218.67766 seconds
+2023-11-22 22:08:19,141 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 8, Current best: 0.9349792461407805, Global best: 0.9349792461407805, Runtime: 225.86399 seconds
+2023-11-22 22:11:42,494 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 9, Current best: 0.9349792461407805, Global best: 0.9349792461407805, Runtime: 203.35011 seconds
+2023-11-22 22:15:20,293 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 10, Current best: 0.9349792461407805, Global best: 0.9349792461407805, Runtime: 217.79661 seconds
+2023-11-22 22:18:46,741 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 11, Current best: 0.9349792461407805, Global best: 0.9349792461407805, Runtime: 206.44608 seconds
+2023-11-22 22:22:28,226 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 12, Current best: 0.9349792461407805, Global best: 0.9349792461407805, Runtime: 221.48197 seconds
+2023-11-22 22:26:02,727 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 13, Current best: 0.9349792461407805, Global best: 0.9349792461407805, Runtime: 214.49907 seconds
+2023-11-22 22:29:35,708 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 14, Current best: 0.9360186855505371, Global best: 0.9360186855505371, Runtime: 212.97718 seconds
+2023-11-22 22:33:20,273 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 15, Current best: 0.9360186855505371, Global best: 0.9360186855505371, Runtime: 224.56274 seconds
+2023-11-22 22:37:05,629 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 16, Current best: 0.9360186855505371, Global best: 0.9360186855505371, Runtime: 225.35379 seconds
+2023-11-22 22:40:42,231 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 17, Current best: 0.9360186855505371, Global best: 0.9360186855505371, Runtime: 216.59976 seconds
+2023-11-22 22:44:20,615 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 18, Current best: 0.9360186855505371, Global best: 0.9360186855505371, Runtime: 218.38063 seconds
+2023-11-22 22:47:57,713 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 19, Current best: 0.9360186855505371, Global best: 0.9360186855505371, Runtime: 217.09622 seconds
+2023-11-22 22:51:37,837 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 20, Current best: 0.9360186855505371, Global best: 0.9360186855505371, Runtime: 220.12111 seconds
+2023-11-23 07:10:36,897 - mealpy.swarm_based.SSA.OriginalSSA - INFO - Solving single objective optimization problem.
+2023-11-23 07:22:23,154 - mealpy.swarm_based.SSA.OriginalSSA - INFO - Solving single objective optimization problem.
+2023-11-23 07:29:37,920 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 1, Current best: 0.9382135451344377, Global best: 0.9382135451344377, Runtime: 285.54277 seconds
+2023-11-23 07:35:01,390 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 2, Current best: 0.9395385382023721, Global best: 0.9395385382023721, Runtime: 315.79472 seconds
+2023-11-23 07:39:42,194 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 3, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 280.80181 seconds
+2023-11-23 07:44:34,079 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 4, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 291.88136 seconds
+2023-11-23 07:49:17,742 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 5, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 283.66066 seconds
+2023-11-23 07:53:59,562 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 6, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 281.81836 seconds
+2023-11-23 07:58:40,649 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 7, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 281.08475 seconds
+2023-11-23 08:03:21,855 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 8, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 281.20268 seconds
+2023-11-23 08:08:00,020 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 9, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 278.16354 seconds
+2023-11-23 08:12:40,481 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 10, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 280.45836 seconds
+2023-11-23 08:17:19,691 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 11, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 279.20813 seconds
+2023-11-23 08:21:56,569 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 12, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 276.87499 seconds
+2023-11-23 08:26:29,602 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 13, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 273.03015 seconds
+2023-11-23 08:31:05,057 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 14, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 275.45236 seconds
+2023-11-23 08:35:53,715 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 15, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 288.65657 seconds
+2023-11-23 08:40:48,022 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 16, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 294.30418 seconds
+2023-11-23 08:45:56,284 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 17, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 308.26053 seconds
+2023-11-23 08:51:03,598 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 18, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 307.31243 seconds
+2023-11-23 08:56:16,827 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 19, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 313.22590 seconds
+2023-11-23 09:01:22,117 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 20, Current best: 0.9526452223606344, Global best: 0.9526452223606344, Runtime: 305.28805 seconds
+2023-11-23 16:08:02,502 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving single objective optimization problem.
+2023-11-23 16:13:19,101 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.923052841934255, Global best: 0.923052841934255, Runtime: 165.19756 seconds
+2023-11-23 16:15:58,164 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.940107443637166, Global best: 0.940107443637166, Runtime: 159.06094 seconds
+2023-11-23 16:18:44,799 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.940107443637166, Global best: 0.940107443637166, Runtime: 166.63252 seconds
+2023-11-23 16:21:29,437 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 4, Current best: 0.9428033169060287, Global best: 0.9428033169060287, Runtime: 164.63640 seconds
+2023-11-23 16:24:11,962 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 5, Current best: 0.9532230274020007, Global best: 0.9532230274020007, Runtime: 162.51370 seconds
+2023-11-23 16:26:55,443 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 6, Current best: 0.9532230274020007, Global best: 0.9532230274020007, Runtime: 163.47935 seconds
+2023-11-23 16:29:36,520 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 7, Current best: 0.9532230274020007, Global best: 0.9532230274020007, Runtime: 161.07458 seconds
+2023-11-23 16:32:21,645 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 8, Current best: 0.9532230274020007, Global best: 0.9532230274020007, Runtime: 165.12246 seconds
+2023-11-23 16:35:02,653 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 9, Current best: 0.9532230274020007, Global best: 0.9532230274020007, Runtime: 161.00582 seconds
+2023-11-23 16:37:29,339 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 10, Current best: 0.9549869439159036, Global best: 0.9549869439159036, Runtime: 146.68380 seconds
+2023-11-23 16:39:56,171 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 11, Current best: 0.9549869439159036, Global best: 0.9549869439159036, Runtime: 146.82934 seconds
+2023-11-23 16:42:29,845 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 12, Current best: 0.9549869439159036, Global best: 0.9549869439159036, Runtime: 153.67214 seconds
+2023-11-23 16:45:02,658 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 13, Current best: 0.9549869439159036, Global best: 0.9549869439159036, Runtime: 152.81066 seconds
+2023-11-23 16:47:32,266 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 14, Current best: 0.9549869439159036, Global best: 0.9549869439159036, Runtime: 149.60617 seconds
+2023-11-23 16:50:04,696 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 15, Current best: 0.9549869439159036, Global best: 0.9549869439159036, Runtime: 152.42692 seconds
+2023-11-23 16:52:38,523 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 16, Current best: 0.9549869439159036, Global best: 0.9549869439159036, Runtime: 153.82570 seconds
+2023-11-23 16:55:10,741 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 17, Current best: 0.9549869439159036, Global best: 0.9549869439159036, Runtime: 152.21452 seconds
+2023-11-23 16:57:44,527 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 18, Current best: 0.9549869439159036, Global best: 0.9549869439159036, Runtime: 153.78381 seconds
+2023-11-23 17:00:16,586 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 19, Current best: 0.9549869439159036, Global best: 0.9549869439159036, Runtime: 152.05635 seconds
+2023-11-23 17:02:55,383 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 20, Current best: 0.9549869439159036, Global best: 0.9549869439159036, Runtime: 158.79552 seconds
+2023-11-23 17:03:02,550 - mealpy.swarm_based.SSA.OriginalSSA - INFO - Solving single objective optimization problem.
+2023-11-23 17:10:06,494 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 1, Current best: 0.9096508847060631, Global best: 0.9096508847060631, Runtime: 289.15215 seconds
+2023-11-23 17:14:53,202 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 2, Current best: 0.9506637839181904, Global best: 0.9506637839181904, Runtime: 286.70517 seconds
+2023-11-23 17:19:41,918 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 3, Current best: 0.9506637839181904, Global best: 0.9506637839181904, Runtime: 288.71493 seconds
+2023-11-23 17:24:17,019 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 4, Current best: 0.9506637839181904, Global best: 0.9506637839181904, Runtime: 275.09888 seconds
+2023-11-23 17:28:52,436 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 5, Current best: 0.9506637839181904, Global best: 0.9506637839181904, Runtime: 275.41452 seconds
+2023-11-23 17:33:25,357 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 6, Current best: 0.9518613344997277, Global best: 0.9518613344997277, Runtime: 272.91896 seconds
+2023-11-23 17:36:39,576 - mealpy.swarm_based.PSO.OriginalPSO - INFO - Solving single objective optimization problem.
+2023-11-23 17:41:24,166 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 1, Current best: 0.9047425128165557, Global best: 0.9047425128165557, Runtime: 151.09971 seconds
+2023-11-23 17:44:05,945 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 2, Current best: 0.928628530604993, Global best: 0.928628530604993, Runtime: 161.77701 seconds
+2023-11-23 17:46:48,527 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 3, Current best: 0.9356204455478615, Global best: 0.9356204455478615, Runtime: 162.57975 seconds
+2023-11-23 17:49:21,561 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 4, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 153.03149 seconds
+2023-11-23 17:51:54,316 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 5, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 152.75237 seconds
+2023-11-23 17:54:33,185 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 6, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 158.86661 seconds
+2023-11-23 17:57:09,592 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 7, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 156.40515 seconds
+2023-11-23 17:59:46,336 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 8, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 156.74114 seconds
+2023-11-23 18:02:23,327 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 9, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 156.98949 seconds
+2023-11-23 18:04:58,925 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 10, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 155.59541 seconds
+2023-11-23 18:07:35,771 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 11, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 156.84356 seconds
+2023-11-23 18:10:11,108 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 12, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 155.33479 seconds
+2023-11-23 18:12:50,943 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 13, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 159.83291 seconds
+2023-11-23 18:15:26,168 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 14, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 155.22275 seconds
+2023-11-23 18:18:00,142 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 15, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 153.97177 seconds
+2023-11-23 18:20:36,713 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 16, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 156.56949 seconds
+2023-11-23 18:22:57,677 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 17, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 140.96123 seconds
+2023-11-23 18:25:14,312 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 18, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 136.63330 seconds
+2023-11-23 18:27:28,512 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 19, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 134.19830 seconds
+2023-11-23 18:29:43,966 - mealpy.swarm_based.PSO.OriginalPSO - INFO - >>>Problem: P, Epoch: 20, Current best: 0.952790044054237, Global best: 0.952790044054237, Runtime: 135.45214 seconds
+2023-11-23 18:29:49,755 - mealpy.swarm_based.SSA.OriginalSSA - INFO - Solving single objective optimization problem.
+2023-11-23 18:35:44,510 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 1, Current best: 0.9369449878874015, Global best: 0.9369449878874015, Runtime: 240.75386 seconds
+2023-11-23 18:39:55,199 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 2, Current best: 0.93964176342925, Global best: 0.93964176342925, Runtime: 250.68523 seconds
+2023-11-23 18:44:38,563 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 3, Current best: 0.93964176342925, Global best: 0.93964176342925, Runtime: 283.36151 seconds
+2023-11-23 18:49:40,056 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 4, Current best: 0.93964176342925, Global best: 0.93964176342925, Runtime: 301.49168 seconds
+2023-11-23 18:54:11,109 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 5, Current best: 0.93964176342925, Global best: 0.93964176342925, Runtime: 271.04989 seconds
+2023-11-23 18:58:45,456 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 6, Current best: 0.93964176342925, Global best: 0.93964176342925, Runtime: 274.34584 seconds
+2023-11-23 19:03:59,096 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 7, Current best: 0.93964176342925, Global best: 0.93964176342925, Runtime: 313.63716 seconds
+2023-11-23 19:08:48,924 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 8, Current best: 0.93964176342925, Global best: 0.93964176342925, Runtime: 289.82611 seconds
+2023-11-23 19:13:38,597 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 9, Current best: 0.9445572406835762, Global best: 0.9445572406835762, Runtime: 289.67098 seconds
+2023-11-23 19:20:57,052 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 10, Current best: 0.9601648467282625, Global best: 0.9601648467282625, Runtime: 438.45187 seconds
+2023-11-23 19:31:10,652 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 11, Current best: 0.9601648467282625, Global best: 0.9601648467282625, Runtime: 613.59772 seconds
+2023-11-23 19:39:01,094 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 12, Current best: 0.9601648467282625, Global best: 0.9601648467282625, Runtime: 470.43788 seconds
+2023-11-23 19:45:38,540 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 13, Current best: 0.9601648467282625, Global best: 0.9601648467282625, Runtime: 397.43185 seconds
+2023-11-23 19:52:40,986 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 14, Current best: 0.9601648467282625, Global best: 0.9601648467282625, Runtime: 422.44269 seconds
+2023-11-23 19:57:46,481 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 15, Current best: 0.9601648467282625, Global best: 0.9601648467282625, Runtime: 305.49305 seconds
+2023-11-23 20:02:40,910 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 16, Current best: 0.9601648467282625, Global best: 0.9601648467282625, Runtime: 294.42742 seconds
+2023-11-23 20:07:38,299 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 17, Current best: 0.9601648467282625, Global best: 0.9601648467282625, Runtime: 297.38630 seconds
+2023-11-23 20:12:29,368 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 18, Current best: 0.9601648467282625, Global best: 0.9601648467282625, Runtime: 291.06638 seconds
+2023-11-23 20:17:54,868 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 19, Current best: 0.9601648467282625, Global best: 0.9601648467282625, Runtime: 325.49791 seconds
+2023-11-23 20:31:53,260 - mealpy.swarm_based.SSA.OriginalSSA - INFO - >>>Problem: P, Epoch: 20, Current best: 0.9601648467282625, Global best: 0.9601648467282625, Runtime: 838.38993 seconds
